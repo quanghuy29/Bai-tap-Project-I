@@ -153,6 +153,7 @@ public:
 
 int main()
 {
+    cout << "Bui Quang Huy 20183764\n";
     QLPhieuMuon qlpm = QLPhieuMuon();
     int funcNum;   
     while (1)
