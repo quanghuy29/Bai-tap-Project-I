@@ -115,6 +115,7 @@ int menuFunc(){
     }
 }
 int main() {
+    cout << "Bui Quang Huy 20183764\n";
     int ret = 0;
     while(1){
         ret = menuFunc();
